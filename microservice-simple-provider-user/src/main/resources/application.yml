@@ -1,0 +1,16 @@
+server:
+  port: 8000
+spring:
+  jpa:
+    database: mysql
+  datasource:
+    url: jdbc:mysql://127.0.0.1:3306/test1
+    username: root
+    password:
+info:
+  app:
+    name: @project.artifactId@
+    encoding: @project.build.sourceEncoding@
+    java:
+      source: @java.version@
+      target: @java.version@
