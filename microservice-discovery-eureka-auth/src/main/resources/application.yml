@@ -1,0 +1,15 @@
+server:
+  port: 8081
+eureka:
+  client:
+    register-with-eureka: false
+    fetch-registry: false
+    service-url:
+      defaultZone: http://localhost:${server.port}/eureka/
+#开启验证
+security:
+  basic:
+    enabled: true
+  user:
+    name: user
+    password: 123123
