@@ -7,22 +7,30 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="microservice-consumer-movie" />
+        <module name="microservice-consumer-movie-my-metadata" />
+        <module name="microservice-consumer-movie-ribbon" />
         <module name="microservice-discovery-eureka" />
         <module name="microservice-discovery-eureka-auth" />
         <module name="microservice-discovery-eureka-ha" />
         <module name="microservice-provider-user" />
+        <module name="microservice-provider-user-my-metadata" />
         <module name="microservice-simple-consumer-movie" />
         <module name="microservice-simple-provider-user" />
+        <module name="microservice-test" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="microservice-consumer-movie" target="1.8" />
+      <module name="microservice-consumer-movie-my-metadata" target="1.8" />
+      <module name="microservice-consumer-movie-ribbon" target="1.8" />
       <module name="microservice-discovery-eureka" target="1.8" />
       <module name="microservice-discovery-eureka-auth" target="1.8" />
       <module name="microservice-discovery-eureka-ha" target="1.8" />
       <module name="microservice-provider-user" target="1.8" />
+      <module name="microservice-provider-user-my-metadata" target="1.8" />
       <module name="microservice-simple-consumer-movie" target="1.8" />
       <module name="microservice-simple-provider-user" target="1.8" />
+      <module name="microservice-test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

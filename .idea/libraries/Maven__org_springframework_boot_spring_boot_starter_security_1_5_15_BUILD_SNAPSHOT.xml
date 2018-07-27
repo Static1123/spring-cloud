@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.springframework.boot:spring-boot-starter-security:1.5.15.BUILD-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-security/1.5.15.BUILD-SNAPSHOT/spring-boot-starter-security-1.5.15.BUILD-20180725.114740-31.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-security/1.5.15.BUILD-SNAPSHOT/spring-boot-starter-security-1.5.15.BUILD-20180725.114740-31-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-security/1.5.15.BUILD-SNAPSHOT/spring-boot-starter-security-1.5.15.BUILD-20180725.114740-31-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
