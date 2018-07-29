@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="microservice-consumer-movie" />
         <module name="microservice-consumer-movie-feign" />
+        <module name="microservice-consumer-movie-feign-custom" />
         <module name="microservice-consumer-movie-my-metadata" />
         <module name="microservice-consumer-movie-ribbon" />
         <module name="microservice-discovery-eureka" />
@@ -23,6 +24,7 @@
     <bytecodeTargetLevel>
       <module name="microservice-consumer-movie" target="1.8" />
       <module name="microservice-consumer-movie-feign" target="1.8" />
+      <module name="microservice-consumer-movie-feign-custom" target="1.8" />
       <module name="microservice-consumer-movie-my-metadata" target="1.8" />
       <module name="microservice-consumer-movie-ribbon" target="1.8" />
       <module name="microservice-discovery-eureka" target="1.8" />

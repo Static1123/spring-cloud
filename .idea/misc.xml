@@ -15,6 +15,7 @@
         <option value="$PROJECT_DIR$/microservice-test/pom.xml" />
         <option value="$PROJECT_DIR$/microservice-consumer-movie-ribbon/pom.xml" />
         <option value="$PROJECT_DIR$/microservice-consumer-movie-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-consumer-movie-feign-custom/pom.xml" />
       </list>
     </option>
   </component>
