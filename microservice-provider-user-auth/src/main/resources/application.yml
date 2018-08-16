@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: microservice-provider-user
+eureka:
+  client:
+    service-url:
+      #用户名：user,密码：123123，对应server配置
+      defaultZone: http://user:123123@localhost:8091/eureka
+  instance:
+    prefer-ip-address: true
+server:
+  port: 9000
