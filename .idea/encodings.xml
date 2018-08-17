@@ -4,12 +4,19 @@
     <file url="file://$PROJECT_DIR$/microservice-consumer-movie" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/microservice-consumer-movie-feign" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/microservice-consumer-movie-feign-custom" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-consumer-movie-feign-hystrix-fallback" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-consumer-movie-feign-manual" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/microservice-consumer-movie-my-metadata" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/microservice-consumer-movie-ribbon" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-consumer-movie-ribbon-hystrix" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/microservice-discovery-eureka" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/microservice-discovery-eureka-auth" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/microservice-discovery-eureka-ha" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-gateway-zuul" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-hystrix-dashboard" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-hystrix-turbine" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/microservice-provider-user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-provider-user-auth" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/microservice-provider-user-my-metadata" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/microservice-simple-consumer-movie" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/microservice-simple-provider-user" charset="UTF-8" />

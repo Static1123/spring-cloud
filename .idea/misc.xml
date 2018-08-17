@@ -3,23 +3,29 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/microservice-simple-provider-user/pom.xml" />
-        <option value="$PROJECT_DIR$/microservice-simple-consumer-movie/pom.xml" />
-        <option value="$PROJECT_DIR$/microservice-discovery-eureka/pom.xml" />
-        <option value="$PROJECT_DIR$/microservice-provider-user/pom.xml" />
         <option value="$PROJECT_DIR$/microservice-consumer-movie/pom.xml" />
-        <option value="$PROJECT_DIR$/microservice-discovery-eureka-ha/pom.xml" />
-        <option value="$PROJECT_DIR$/microservice-discovery-eureka-auth/pom.xml" />
-        <option value="$PROJECT_DIR$/microservice-provider-user-my-metadata/pom.xml" />
         <option value="$PROJECT_DIR$/microservice-consumer-movie-my-metadata/pom.xml" />
-        <option value="$PROJECT_DIR$/microservice-test/pom.xml" />
         <option value="$PROJECT_DIR$/microservice-consumer-movie-ribbon/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-discovery-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-discovery-eureka-auth/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-discovery-eureka-ha/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-provider-user/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-provider-user-my-metadata/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-simple-consumer-movie/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-simple-provider-user/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-test/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-provider-user-auth/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-consumer-movie-feign-manual/pom.xml" />
         <option value="$PROJECT_DIR$/microservice-consumer-movie-feign/pom.xml" />
-        <option value="$PROJECT_DIR$/microservice-consumer-movie-feign-custom/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-consumer-movie-ribbon-hystrix/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-consumer-movie-feign-hystrix-fallback/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-hystrix-dashboard/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-hystrix-turbine/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-gateway-zuul/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
