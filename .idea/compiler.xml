@@ -17,12 +17,17 @@
         <module name="microservice-discovery-eureka" />
         <module name="microservice-discovery-eureka-auth" />
         <module name="microservice-discovery-eureka-ha" />
+        <module name="microservice-file-upload" />
         <module name="microservice-gateway-zuul" />
+        <module name="microservice-gateway-zuul-aggregation" />
+        <module name="microservice-gateway-zuul-fallback" />
+        <module name="microservice-gateway-zuul-filter" />
         <module name="microservice-hystrix-dashboard" />
         <module name="microservice-hystrix-turbine" />
         <module name="microservice-provider-user" />
         <module name="microservice-provider-user-auth" />
         <module name="microservice-provider-user-my-metadata" />
+        <module name="microservice-sidecar" />
         <module name="microservice-simple-consumer-movie" />
         <module name="microservice-simple-provider-user" />
         <module name="microservice-test" />
@@ -41,12 +46,17 @@
       <module name="microservice-discovery-eureka" target="1.8" />
       <module name="microservice-discovery-eureka-auth" target="1.8" />
       <module name="microservice-discovery-eureka-ha" target="1.8" />
+      <module name="microservice-file-upload" target="1.8" />
       <module name="microservice-gateway-zuul" target="1.8" />
+      <module name="microservice-gateway-zuul-aggregation" target="1.8" />
+      <module name="microservice-gateway-zuul-fallback" target="1.8" />
+      <module name="microservice-gateway-zuul-filter" target="1.8" />
       <module name="microservice-hystrix-dashboard" target="1.8" />
       <module name="microservice-hystrix-turbine" target="1.8" />
       <module name="microservice-provider-user" target="1.8" />
       <module name="microservice-provider-user-auth" target="1.8" />
       <module name="microservice-provider-user-my-metadata" target="1.8" />
+      <module name="microservice-sidecar" target="1.8" />
       <module name="microservice-simple-consumer-movie" target="1.8" />
       <module name="microservice-simple-provider-user" target="1.8" />
       <module name="microservice-test" target="1.8" />

@@ -1,13 +1,13 @@
 <component name="libraryTable">
   <library name="Maven: org.springframework.cloud:spring-cloud-starter-ribbon:1.4.6.BUILD-SNAPSHOT">
     <CLASSES>
-      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-ribbon/1.4.6.BUILD-SNAPSHOT/spring-cloud-starter-ribbon-1.4.6.BUILD-20180817.024805-373.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-ribbon/1.4.6.BUILD-SNAPSHOT/spring-cloud-starter-ribbon-1.4.6.BUILD-20180820.054928-398.jar!/" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-ribbon/1.4.6.BUILD-SNAPSHOT/spring-cloud-starter-ribbon-1.4.6.BUILD-20180817.024805-373-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-ribbon/1.4.6.BUILD-SNAPSHOT/spring-cloud-starter-ribbon-1.4.6.BUILD-20180820.054928-398-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-ribbon/1.4.6.BUILD-SNAPSHOT/spring-cloud-starter-ribbon-1.4.6.BUILD-20180817.024805-373-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-ribbon/1.4.6.BUILD-SNAPSHOT/spring-cloud-starter-ribbon-1.4.6.BUILD-20180820.054928-398-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

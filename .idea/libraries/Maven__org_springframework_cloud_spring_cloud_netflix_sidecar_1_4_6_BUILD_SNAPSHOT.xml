@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.springframework.cloud:spring-cloud-netflix-sidecar:1.4.6.BUILD-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-sidecar/1.4.6.BUILD-SNAPSHOT/spring-cloud-netflix-sidecar-1.4.6.BUILD-20180820.054615-398.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-sidecar/1.4.6.BUILD-SNAPSHOT/spring-cloud-netflix-sidecar-1.4.6.BUILD-20180820.054615-398-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-sidecar/1.4.6.BUILD-SNAPSHOT/spring-cloud-netflix-sidecar-1.4.6.BUILD-20180820.054615-398-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
